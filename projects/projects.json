@@ -2029,7 +2029,21 @@
           "Responsive",
           "iOS"
       ]
+    },
+    {
+      "name": "Projectcampus",
+      "thumb": "projectcampus/thumb.png",
+      "desc": "Projectcampus is an online education platform to make courses and student projects more effective, engaging and meaningful.",
+      "url": "https://projectcamp.us",
+      "info": "https://about.projectcamp.us",
+      "submitter": "elgerlambert",
+      "submissionDate": "2014-05-14",
+      "tags": [
+        "Production",
+        "Education", "Productivity",
+        "MongoDB", "Symfony2", "LESS", "Responsive",
+        "jQuery"
+      ]
     }
-
   ]
 }
